@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tailwind-react/static/css/main.877871cb.css",
+    "main.js": "/tailwind-react/static/js/main.e3fb826d.js",
+    "static/media/ytu_hero.png": "/tailwind-react/static/media/ytu_hero.dfd59f3d27a621a63ade.png",
+    "index.html": "/tailwind-react/index.html",
+    "main.877871cb.css.map": "/tailwind-react/static/css/main.877871cb.css.map",
+    "main.e3fb826d.js.map": "/tailwind-react/static/js/main.e3fb826d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877871cb.css",
+    "static/js/main.e3fb826d.js"
+  ]
+}
